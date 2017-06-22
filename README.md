@@ -1,4 +1,2 @@
-C Data Structure programs.
-
-
-This repository contains just c data structure programs.
+# Data_Structure
+This directory will contain the c language data structure programms.
